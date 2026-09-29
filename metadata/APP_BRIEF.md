@@ -1,4 +1,4 @@
-<!-- gf-brief source=b5526e586e8d55eba95bf574ab4afbe03e42a82124e33dbb6b6cda33e9844265 written=2026-09-29T18:00:39+03:00 -->
+<!-- gf-brief source=b5526e586e8d55eba95bf574ab4afbe03e42a82124e33dbb6b6cda33e9844265 written=2026-09-29T18:01:33+03:00 -->
 # Cherriva
 ## What it is
 Cherriva is a Courtauld painting quiz for people who keep works on this device. You save a painting, the app writes one word twice on the maker line or the title line, and you tap that twin then Elide to file the work as fair. Misses stay on Saved as botches you can undo.
