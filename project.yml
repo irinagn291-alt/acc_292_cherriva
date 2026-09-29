@@ -22,6 +22,8 @@ targets:
     platform: iOS
     sources:
     - path: Epizeuxis
+      excludes:
+      - Info.plist
     resources:
     - path: PrivacyInfo.xcprivacy
     dependencies:
@@ -51,14 +53,6 @@ targets:
         SWIFT_STRICT_CONCURRENCY: complete
         CODE_SIGN_STYLE: Automatic
         INFOPLIST_FILE: Support/Epizeuxis-Info.plist
-    info:
-      path: Epizeuxis/Info.plist
-      properties:
-        CFBundleURLTypes:
-        - CFBundleTypeRole: Editor
-          CFBundleURLName: com.epizeuxis.echo
-          CFBundleURLSchemes:
-          - epizeuxis
   EpizeuxisTests:
     type: bundle.unit-test
     platform: iOS
