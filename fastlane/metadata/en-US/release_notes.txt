@@ -1,0 +1,7 @@
+This is the first release of Cherriva, a Courtauld painting quiz for people who keep works on this device.
+
+Save a painting from Explore into a crate. On Home, tap “Write twice” to echo a work that is not yet fair. The app writes one word twice on the maker line or the title line, never both. Tap that twin, then “Elide”, to file the work as fair. Misses stay on Saved as botches you can undo.
+
+Explore lists a local Courtauld shelf and searches by “Maker or title”. Saved lists Fair and Botches. Settings includes The Courtauld, Collection, Wikidata Q1138087, “Contact us”, “How the twin works”, “Show the first pages”, and “Reset all data”. Shortcuts are named “Open Quiz”, “Open Explore”, “Open Saved”, “Open Settings”, “Echo a line”, and “Elide the twin”.
+
+English UI only. Portrait on iPhone and iPad. Minimum iOS 17.0.
