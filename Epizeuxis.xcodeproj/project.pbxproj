@@ -634,10 +634,10 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		C26B06F421F232BAA146EACC /* XCRemoteSwiftPackageReference "Alamofire" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/wrandecima-bit/Alamofire";
+			repositoryURL = "https://github.com/ymvmj7dsyy-stack/Alamofire";
 			requirement = {
 				kind = revision;
-				revision = 7fdd403089757be2ce6991b287c7bef612c8bd04;
+				revision = 3ea8e93ec37a3ae5f255afb529ef20f438dd1903;
 			};
 		};
 		F1EC4F926D89394C9FE37BDF /* XCRemoteSwiftPackageReference "AppsFlyerFramework-Static" */ = {
